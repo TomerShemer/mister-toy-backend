@@ -1,0 +1,115 @@
+[
+  {
+    "_id": "iPCAd",
+    "name": "Trexx",
+    "price": 100,
+    "inStock": false,
+    "createdAt": 1631231801011,
+    "labels": [
+      "Battery Powered",
+      "Doll"
+    ]
+  },
+  {
+    "_id": "orp1l",
+    "name": "Talking Doll",
+    "price": 123,
+    "labels": [
+      "Doll",
+      "Battery Powered",
+      "Baby"
+    ],
+    "createdAt": 1631034561011,
+    "inStock": true,
+    "reviews": [
+      {
+        "_id": "aAaAa",
+        "username": "Matilda",
+        "txt": "Great toy!",
+        "createdAt": 1631531801011,
+        "rate": 4
+      },
+      {
+        "_id": "bBbBb",
+        "username": "John",
+        "txt": "meh",
+        "createdAt": 1631531801011,
+        "rate": 2
+      },
+      {
+        "_id": "cCcCc",
+        "username": "Ben",
+        "txt": "A lot of fun",
+        "createdAt": 1631531801011,
+        "rate": 3
+      }
+    ]
+  },
+  {
+    "_id": "ZQvwe",
+    "name": "Dinosaur",
+    "price": 50,
+    "labels": [
+      "Doll",
+      "Battery Powered"
+    ],
+    "createdAt": 1631231801011,
+    "inStock": true
+  },
+  {
+    "_id": "gmHTL",
+    "name": "Talisman",
+    "price": 100,
+    "labels": [
+      "Box game"
+    ],
+    "createdAt": 1631031476011,
+    "inStock": false
+  },
+  {
+    "_id": "OkrL7",
+    "name": "1000pc Sunset Puzzle",
+    "price": 149,
+    "inStock": false,
+    "createdAt": 1631031798611,
+    "labels": [
+      "Puzzle",
+      "Art"
+    ]
+  },
+  {
+    "_id": "BRstZ",
+    "name": "Playdough",
+    "price": 15,
+    "labels": [
+      "Outdoor",
+      "Art",
+      "Baby"
+    ],
+    "createdAt": 1631531801011,
+    "inStock": true
+  },
+  {
+    "_id": "DblZr",
+    "name": "Racing Car",
+    "price": 20,
+    "labels": [
+      "Outdoor",
+      "Battery Powered",
+      "On wheels"
+    ],
+    "createdAt": 1631531801011,
+    "inStock": true
+  },
+  {
+    "_id": "BgrPi",
+    "name": "G.I. Joe",
+    "price": 25,
+    "labels": [
+      "Doll",
+      "Battery Powered"
+    ],
+    "createdAt": 1631036801011,
+    "inStock": false
+  }
+]
